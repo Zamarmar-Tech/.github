@@ -57,10 +57,10 @@ Looking for a partner for a distinctive brand experience, motion or 3D productio
 
 **Explore our work and get in touch:** [zamarmardesign.com](https://zamarmardesign.com)
 
+---
 <div align="center">
 
----
 <img src="./logo.svg" alt="Zamarmar Design Logo" width="200px" />
+  
 Creative & Development Agency · Serving clients worldwide
-
 </div>
